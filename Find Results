@@ -1,0 +1,127 @@
+Searching 342 files for "circle-progress"
+
+/home/danielk/fortesza/resources/views/layouts/guest-homepage.blade.php:
+  325      <!-- Latest compiled and minified JavaScript -->
+  326  
+  327:     <script src="{{ asset('plugins/circle-progress/dist/circle-progress.js') }}"></script>
+  328  
+  329       <!-- Header effect -->
+
+/home/danielk/fortesza/resources/views/layouts/propiedad.blade.php:
+  143        <script src="{{ asset('js/modal-user/js/modalEffects.js') }}"></script>
+  144        <script src="{{ asset('js/modal-user/js/cssParser.js') }}"></script>
+  145:       <script src="{{ asset('plugins/circle-progress/dist/circle-progress.js')}}"></script>
+  146        <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.5.0/Chart.js"></script>
+  147        <script src="{{ asset('js/replete-modal.min.js') }}"></script>
+
+/home/danielk/fortesza/resources/views/layouts/propiedades.blade.php:
+  103        <script type="text/javascript" src="{{ asset('js/swipeTo.js') }}"></script>
+  104        
+  105:       <script src="{{ asset('plugins/circle-progress/dist/circle-progress.js')}}"></script>
+  106        
+  107        <script src="{{ asset('js/replete-modal.min.js') }}"></script>
+
+/home/danielk/fortesza/resources/views/master.blade.php:
+  254      <!-- Latest compiled and minified JavaScript -->
+  255  
+  256:     <script src="{{ asset('plugins/circle-progress/dist/circle-progress.js') }}"></script>
+  257  
+  258  
+
+8 matches across 4 files
+
+
+Searching 342 files for " Fondos Acumulados"
+
+/home/danielk/fortesza/resources/views/projects/rent.blade.php:
+   48                      <h1>$ {{ number_format($offering->funding_goal) }}</h1>
+   49                      <br>
+   50:                     <h2 style="margin-top: -20px"> Fondos Acumulados</h2>
+   51                      <div class="second circle">
+   52                          <strong></strong>
+
+/home/danielk/fortesza/resources/views/projects/view.blade.php:
+   38                      <h1>$ {{ number_format($offering->funding_goal) }}</h1>
+   39                      <br>
+   40:                     <h2 style="margin-top: -20px"> Fondos Acumulados</h2>
+   41                      <div class="second circle">
+   42                          <strong></strong>
+
+/home/danielk/fortesza/resources/views/rent.blade.php:
+   35                      <h1>$ {{ number_format(0) }}</h1>
+   36                      <br>
+   37:                     <h2 style="margin-top: -20px"> Fondos Acumulados</h2>
+   38                      <div class="second circle">
+   39                          <strong></strong>
+
+3 matches across 3 files
+
+
+Searching 342 files for "circle-progress"
+
+/home/danielk/fortesza/resources/views/layouts/guest-homepage.blade.php:
+  325      <!-- Latest compiled and minified JavaScript -->
+  326  
+  327:     <script src="{{ asset('plugins/circle-progress/dist/circle-progress.js') }}"></script>
+  328  
+  329       <!-- Header effect -->
+
+/home/danielk/fortesza/resources/views/layouts/propiedad.blade.php:
+  143        <script src="{{ asset('js/modal-user/js/modalEffects.js') }}"></script>
+  144        <script src="{{ asset('js/modal-user/js/cssParser.js') }}"></script>
+  145:       <script src="{{ asset('plugins/circle-progress/dist/circle-progress.js')}}"></script>
+  146        <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.5.0/Chart.js"></script>
+  147        <script src="{{ asset('js/replete-modal.min.js') }}"></script>
+
+/home/danielk/fortesza/resources/views/layouts/propiedades.blade.php:
+  103        <script type="text/javascript" src="{{ asset('js/swipeTo.js') }}"></script>
+  104        
+  105:       <script src="{{ asset('plugins/circle-progress/dist/circle-progress.js')}}"></script>
+  106        
+  107        <script src="{{ asset('js/replete-modal.min.js') }}"></script>
+
+/home/danielk/fortesza/resources/views/master.blade.php:
+  254      <!-- Latest compiled and minified JavaScript -->
+  255  
+  256:     <script src="{{ asset('plugins/circle-progress/dist/circle-progress.js') }}"></script>
+  257  
+  258  
+
+8 matches across 4 files
+
+
+Searching 342 files for "percentage-circle"
+
+0 matches
+
+Searching 342 files for "circle-progress"
+
+/home/danielk/fortesza/resources/views/layouts/guest-homepage.blade.php:
+  325      <!-- Latest compiled and minified JavaScript -->
+  326  
+  327:     <script src="{{ asset('plugins/circle-progress/dist/circle-progress.min.js') }}"></script>
+  328  
+  329       <!-- Header effect -->
+
+/home/danielk/fortesza/resources/views/layouts/propiedad.blade.php:
+  143        <script src="{{ asset('js/modal-user/js/modalEffects.js') }}"></script>
+  144        <script src="{{ asset('js/modal-user/js/cssParser.js') }}"></script>
+  145:       <script src="{{ asset('plugins/circle-progress/dist/circle-progress.min.js')}}"></script>
+  146        <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.5.0/Chart.js"></script>
+  147        <script src="{{ asset('js/replete-modal.min.js') }}"></script>
+
+/home/danielk/fortesza/resources/views/layouts/propiedades.blade.php:
+  103        <script type="text/javascript" src="{{ asset('js/swipeTo.js') }}"></script>
+  104        
+  105:       <script src="{{ asset('plugins/circle-progress/dist/circle-progress.min.js')}}"></script>
+  106        
+  107        <script src="{{ asset('js/replete-modal.min.js') }}"></script>
+
+/home/danielk/fortesza/resources/views/master.blade.php:
+  254      <!-- Latest compiled and minified JavaScript -->
+  255  
+  256:     <script src="{{ asset('plugins/circle-progress/dist/circle-progress.min.js') }}"></script>
+  257  
+  258  
+
+8 matches across 4 files
