@@ -1,4 +1,4 @@
-##Python Server and React Client to make Facial Recognition
+## Python Server and React Client to make Facial Recognition
 
 
 ## Instalation
